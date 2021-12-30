@@ -1,10 +1,9 @@
 # **Md. Badi-Uz-Zaman Shajib**
 
-[Home Page](https://mbzshajib.github.io)  
-[Email: mbzshajib@gmail.com](mailto:mbzshajib@gmail.com)  
-[LinkedIn: mbzshajib](https://www.linkedin.com/in/mbzshajib)  
-[GitHub:mbzshajib](https://github.com/mbzshajib)
-[+88 01611120220](+88 01611120220)
+[Home Page](https://mbzshajib.github.io)|| [Email: mbzshajib@gmail.com](mailto:mbzshajib@gmail.com)
+|| [+88 01611120220](+88 01611120220)  
+[Home:online-cv](https://mbzshajib.github.io/online-cv/) || [GitHub:mbzshajib](https://github.com/mbzshajib)
+|| [LinkedIn: mbzshajib](https://www.linkedin.com/in/mbzshajib)
 
 ---
 ---
@@ -37,18 +36,47 @@ value to society and help people to have a better life.
 
 ---
 
+### **Professional Experience**
+
+**bKash Limited, Dhaka, Bangladesh**    
+_Principal Engineer (Nov. 2021 – Present.)_  
+bKash is the largest MFS (mobile financial service) company in Bangladesh.
+<!-- Two Line -->
+
+- Understand the complex and proprietary payment system of bKash, analyze system bottlenecks of existing architecture.
+- Working on some legacy services to convert them to reactive architecture for better performance.
+
+**Kona Software Lab Ltd., Dhaka, Bangladesh**    
+_Principal Software Engineer (Sept. 2013 – Nov. 2021)_
+<!-- 4/5 Line -->
+[Kona Software Lab Ltd (KonaSL)](https://konasl.com), the R&D Center, and the Global Solution Business Wing
+of [KONA I](https://konai.com/).
+
+- Study, understand and implement specifications on payment and security for development of payment and security
+  modules.
+- I have worked as a System Designer and tech lead of the core system team consisting 11 programmers
+- Worked on the system design team for Kona Pay Platform, NexusPay, DFS, and developed account and transaction authorization
+  modules of the core platform. Tuned the modules to scale up to 250 real-time financial transactions per second and 20M
+  transaction per day.
+- Analyzed client requirements and design them to fit into the product. Worked as tech lead of development team for
+  several projects in planning, developing, and delivering the project requirements within timeline.
+- Monitor system performance and optimize to achieve the targeted goal. Additionally, resolve critical production issues
+  to meet the SLA.
+
+---
+
 ### **Mentionable Projects**
 
 #### **Digital Financial System (DFS)**
 
 <!-- Project Line Single -->
 A flexible product based on [Kona Pay](https://konasl.com/digitization-platform/kona-pay/) Platform provides end
-consumers a unified digital payment environment to support large number of active users to avail payment and other value
-added services. Along with other Kona Pay services it supports USSD channel, virtual card payment, reward management,
-promotion, and back office batch processing and several web portals to serve business.
+consumers a unified digital environment to support large number of active users to avail payment and other value
+added services. Along with other Kona Pay services it supports USSD channel, virtual card, reward management, promotion,
+and back office batch processing and several web portals to serve business.
 
 - Designed and developed core Accounting and Payment modules of the platform.
-- Monitor system performance and optimized for performing 20M realtime payment per day in Nagad Project (DFS Deployment)
+- Monitor system performance and optimized for performing 20M realtime transactions per day in Nagad Project (DFS Deployment)
   , which is the fastest growing MFS in Bangladesh. System was tested with 50M users among them 1.5M active.
 - Worked on batch data processing for back office transaction clearing & settlement, reporting and data warehousing.
 - Monitor system performance and optimized for performing 60M transactions per day.
@@ -66,9 +94,9 @@ NexusPay is a digitized payment platform for the existing bank accounts, credit/
 Banking accounts of Dutch-Bangla Bank Ltd, Bangladesh. This project is a customized variant
 of [Kona Pay](https://konasl.com/digitization-platform/kona-pay/) Platform for Bank Integration.
 
-- Integrated multiple bank accounting systems for issuing HCE payment card.
+- Integrated multiple bank accounting systems for issuing HCE virtual card.
 - Support multiple payment & transaction methods (e.g. NFC, POS, HCE, EMV QR, e-com, utility & bill, ATM etc.)
-- Worked as a system designer and implemented core payment authorization modules and POS applications on Ingenico and
+- Worked as a system designer and implemented core authorization modules and POS applications on Ingenico and
   Nexgo devices for contactless payment.
 - Prepared app servers and deployed in Bank data center with compliance of regulatory, high availability, and option to
   scale up.
@@ -87,8 +115,7 @@ smart-card, and other flexible channels.
   architecture designing of core KonaPay modules.
 - Developed a continuous delivery process with Jenkins and Oracle Virtual box.
 
-**Technology** SpringBoot, Hibernate, Oracle, Redis, RabbitMQ, HCE, Oracle VM, System Automation, Micro Service, PKCS11,
-ISO-8583, ISO-9564, Oracle VM.  
+**Technology** Spring, Hibernate, Oracle, Redis, RabbitMQ, Micro Services HCE,PKCS11, ISO-8583, ISO-9564.  
 **Website:** [konacard.co.kr](https://www.konacard.co.kr)
 
 #### **EMV Verification Tool (K-EVT)**
@@ -137,33 +164,6 @@ maintain their fitness even in the times of Covid-19.
 **Technology** PHP, MYSQL, Laravel, Wearable.  
 **Website:** [next.dhakarunlords.com](https://next.dhakarunlords.com)
 
-### **Professional Experience**
-
-**bKash Limited, Dhaka, Bangladesh**    
-_Principal Engineer (Nov. 2021 – Present.)_  
-bKash is the largest MFS (mobile financial service) company in Bangladesh.
-<!-- Two Line -->
-
-- Understand the complex and proprietary payment system of bKash, analyze system bottlenecks of existing architecture.
-- Working on some legacy services to convert them to reactive architecture for better performance.
-
-**Kona Software Lab Ltd., Dhaka, Bangladesh**    
-_Principal Software Engineer (Sept. 2013 – Nov. 2021)_
-<!-- 4/5 Line -->
-
-- Study, understand and implement specifications on payment and security for development of payment and security
-  modules.
-- I have worked as a System Designer and tech lead of the core system team consisting 11 programmers
-- Worked on the system design team for Kona Pay Platform, NexusPay, DFS, and developed account and payment authorization
-  modules of the core platform. Tuned the modules to scale up to 250 real-time financial transactions per second and 20M
-  transaction per day.
-- Analyzed client requirements and design them to fit into the product. Worked as tech lead of development team for
-  several projects in planning, developing, and delivering the project requirements within timeline.
-- Monitor system performance and optimize to achieve the targeted goal. Additionally, resolve critical production issues
-  to meet the SLA.
-
----
-
 ### **Education**
 
 **_Master of Science (M.S.)_ in Computer Science and Engineering**  
@@ -184,4 +184,5 @@ November 6-8, 2016 at San Jose, California, USA.
 
 ### Hobbies & Interests
 
-Photography and Traveling.
+Photography and Traveling.  
+[Flickr](https://www.flickr.com/photos/mbzshajib/)
