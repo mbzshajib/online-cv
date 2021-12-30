@@ -1,6 +1,6 @@
 # **Md. Badi-Uz-Zaman Shajib**
 
-[Home Page](https://mbzshajib.github.io)|| [Email: mbzshajib@gmail.com](mailto:mbzshajib@gmail.com)
+[Home Page](https://mbzshajib.github.io/online-cv)|| [Email: mbzshajib@gmail.com](mailto:mbzshajib@gmail.com)
 || [+88 01611120220](+88 01611120220)  
 [Home:online-cv](https://mbzshajib.github.io/online-cv/) || [GitHub:mbzshajib](https://github.com/mbzshajib)
 || [LinkedIn: mbzshajib](https://www.linkedin.com/in/mbzshajib)
@@ -49,8 +49,7 @@ _Principal Engineer (Nov. 2021 – Present.)_
 **Kona Software Lab Ltd., Dhaka, Bangladesh**    
 _Principal Software Engineer (Sept. 2013 – Nov. 2021)_
 <!-- 4/5 Line -->
-[Kona Software Lab Ltd (KonaSL)](https://konasl.com), the R&D Center, and the Global Solution Business Wing
-of [KONA I](https://konai.com/).
+[Kona Software Lab Ltd (KonaSL)](https://konasl.com), the R&D Center, and the Global Solution Business Wing of [KONA I](https://konai.com/).
 
 - Study, understand and implement specifications on payment and security to develop payment and security services.
 - Worked as tech lead of development team (4~11 members) for several projects in planning, developing, and delivering the project requirements within the timeline.
@@ -64,10 +63,7 @@ of [KONA I](https://konai.com/).
 
 #### **Digital Financial System (DFS)**
 
-<!-- Project Line Single -->
-The platform provides end consumers a unified digital environment to support a large number of active users to avail
-payment and other value-added services. Along with other payment services, it supports the USSD channel, virtual card,
-reward management, promotion, and back-office batch processing, and several web portals to support business.
+The platform provides end consumers a unified digital environment to support a large number of active users to avail payment and other value-added services. Along with other payment services, it supports the USSD channel, virtual card, reward management, promotion, and back-office batch processing, and several web portals to support business.
 
 - Designed and developed core Accounting and Payment modules of the platform.
 - Monitor system, optimized and tested for performing 20M real-time transactions per day. Tested system with 50M  (1.5M active) users among them.
@@ -75,8 +71,7 @@ reward management, promotion, and back-office batch processing, and several web 
 - Monitor system performance and optimize for performing 60M transactions per day in RDB.
 - Designed application deployment architecture for the private data center. Also implemented automatic deployment with Ansible with zero downtime.
 
-**Technology** Java, Spring, Oracle, Hibernate, Redis, RabbitMQ, Micro Services, Batching, Undertow, Nginx, HCE,
-Accounting System, Safenet HSM, APM, ELK, Grafana, Elasticsearch, Prometheus, ISO-8583, ISO-9564, PCI/DSS.  
+**Technology** Java, Spring, Oracle, Hibernate, Redis, RabbitMQ, Micro Services, Batching, Undertow, Nginx, HCE, Accounting System, Safenet HSM, APM, ELK, Grafana, Elasticsearch, Prometheus, ISO-8583, ISO-9564, PCI/DSS.  
 **Website:** [Digital Financial System](https://konasl.com/digitization-platform/kona-dfs/)
 || [nagad.com.bd](https://nagad.com.bd)
 
