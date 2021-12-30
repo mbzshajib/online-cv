@@ -29,7 +29,7 @@ Working in the fintech industry, designing, and developing platforms for more th
 - **Dev Tools:** Gradle, Maven, Docker, Git.
 - **Monitoring:** ELK, APM, Prometheus, Grafana, Ansible, Jenkins.
 - **Payment:** EMV, Payment GW, Payment Processor, POS, Accounting.
-- **Security:** Smart Card, Tokenization, HCE, HSM, Cryptography,
+- **Security:** Smart Card, Tokenization, HCE, HSM, Cryptography.
 - **Specifications:** ISO/IEC-7816, ISO-8583, PCI/DSS, ISO-9564, PKCS7, PKCS11.
 - **Interest:** Software Design, Micro Service, Cloud Computing.
 - **Soft Skills:** Teamwork, planing and execution, learn and adapt new environment.
@@ -71,7 +71,7 @@ The platform provides end consumers a unified digital environment to support a l
 - Monitor system performance and optimize for performing 60M transactions per day in RDB.
 - Designed application deployment architecture for the private data center. Also implemented automatic deployment with Ansible with zero downtime.
 
-**Technology** Java, Spring, Oracle, Hibernate, Redis, RabbitMQ, Micro Services, Batching, Undertow, Nginx, HCE, Accounting System, Safenet HSM, APM, ELK, Grafana, Elasticsearch, Prometheus, ISO-8583, ISO-9564, PCI/DSS.  
+**Technology** Java, Spring, Oracle, Hibernate, Redis, RabbitMQ, Micro Services, Batching, Undertow, Nginx, Safenet, APM, ELK, Grafana, Elasticsearch, Prometheus, ISO-8583, ISO-9564, PCI/DSS.  
 **Website:** [Digital Financial System](https://konasl.com/digitization-platform/kona-dfs/)
 || [nagad.com.bd](https://nagad.com.bd)
 
@@ -87,8 +87,7 @@ of [Kona Pay](https://konasl.com/digitization-platform/kona-pay/) Platform for B
 - Guided a team consisting of 18 programmers.
 - Prepared app servers and deployed in Bank data center with compliance of regulatory, high availability, and option to scale up.
 
-**Technology** Java, Spring, Hibernate, Oracle, Redis, RabbitMQ, Micro Services, wildfly, HCE, ATM, POS, EMV QR, NFC,
-Thales HSM, PM, ISO-8583, ISO-9564, PCI/DSS.  
+**Technology** Java, Spring, Hibernate, Oracle, Redis, RabbitMQ, Micro Services, wildfly, HCE, ATM, POS, EMV QR, NFC, Thales HSM, PM, ISO-8583, ISO-9564, PCI/DSS.  
 **Website:** [NexusPay](https://www.dutchbanglabank.com/nexuspay/nexusPay-home.html)
 
 #### **Kona Card**
@@ -123,8 +122,7 @@ Desktop application aimed to customize and issue payment cards to customers at t
 
 #### **Key Management System (KMS)**
 
-To perform cryptographic operation securely, HSM (Hardware Security Module) is used, which is accessed by KMS through
-simple generic APIs hiding hardware complexities.
+To perform cryptographic operation securely, HSM (Hardware Security Module) is used, which is accessed by KMS through simple generic APIs hiding hardware complexities.
 
 - Worked on customization of the module and HSM integration.
 
