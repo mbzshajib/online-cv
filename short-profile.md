@@ -20,19 +20,23 @@ Working in the fintech industry, designing, and developing platforms for more th
 
 <!-- Review -->
 
-- **Languages & Frameworks:** Java, C, Spring, JPA, Hibernate, SQL, Oracle, MySQL, NoSQL, Elasticsearch, DynamoDB, Shell
-  Script.
-- **Technology & Tools:** Redis, RabbitMQ, Kafka, Undertow, Mosquitto, F5, Switch.
-- **Project:** Jira, Confluence.
-- **Operating System:** Windows, Unix/Linux.
-- **IDE:** Intellij IDEA, Visual Studio.
+- **Languages & Frameworks:** Java, C, Spring, JPA, Hibernate, SQL, Oracle, MySQL, NoSQL, DynamoDB.
+- **Technology & Tools:** Redis, RabbitMQ, Undertow, Mosquitto, F5, Switch.
+
+[comment]: <> (- **Project:** Jira, Confluence.)
+
+[comment]: <> (- **Operating System:** Windows, Unix/Linux.)
+
+[comment]: <> (- **IDE:** Intellij IDEA, Visual Studio.)
+
 - **Dev Tools:** Gradle, Maven, Docker, Git.
 - **Monitoring:** ELK, APM, Prometheus, Grafana, Ansible, Jenkins.
+
 - **Payment:** EMV, Payment GW, Payment Processor, POS, Accounting.
 - **Security:** Smart Card, Tokenization, HCE, HSM, Cryptography.
 - **Specifications:** ISO/IEC-7816, ISO-8583, PCI/DSS, ISO-9564, PKCS7, PKCS11.
-- **Interest:** Software Design, Micro Service, Cloud Computing.
-- **Soft Skills:** Teamwork, planing and execution, learn and adapt new environment.
+- **Interest:** SoftwareDesign, MicroServices, CloudComputing.
+- **Soft Skills:** Teamwork, planing and execution, learn and adapt.
 
 ---
 
@@ -55,73 +59,79 @@ _Principal Software Engineer (Sept. 2013 – Nov. 2021)_
 - Worked as tech lead of development team (4~11 members) for several projects in planning, developing, and delivering the project requirements within the timeline.
 - Worked on the system design team for Kona Pay Platform, NexusPay, DFS, and developed account and transaction authorization modules of the core platform. Tested and Optimized the modules to scale up to 250 real-time financial transactions per second and 20M transactions per day.
 - Analyzed client requirements and implemented them to fit into the product.
-- Monitor system performance on production and optimize to achieve the targeted goal. - Guided the team to resolve critical production issues to meet the SLA.
+- Monitor system performance on production and optimize to achieve the targeted goal. 
+- Guided the team to resolve critical production issues to meet the SLA.
 
 ---
 
 ### **Mentionable Projects**
 
 #### **Digital Financial System (DFS)**
+**Tech Lead \& Software Designer**
 
-The platform provides end consumers a unified digital environment to support a large number of active users to avail payment and other value-added services. Along with other payment services, it supports the USSD channel, virtual card, reward management, promotion, and back-office batch processing, and several web portals to support business.
+The platform provides end consumers a unified digital environment to support an engaged user-base to avail payment. Along with other payment services, it supports the USSD channel, virtual card, reward management, promotion, back-office batch processing, several web portals, and other value-added services to support business.
 
-- Designed and developed core Accounting and Payment modules of the platform.
-- Monitor system, optimized and tested for performing 20M real-time transactions per day. Tested system with 50M  (1.5M active) users among them.
-- Improved processing time for back-office transaction reporting, clearing & settlement batch data processing (50M) from 14 to 3.9 hours)
+- Tech Lead
+- Designed \& developed core Accounting and Payment modules of the platform.
+- Monitor, optimized and tested for performing 20M real-time transactions per day. Tested system with 50M  (1.5M active) users among them.
+- Improved processing time for back-office transaction reporting, clearing & settlement batch data processing (50M) from 14 to 5 hours).
 - Monitor system performance and optimize for performing 60M transactions per day in RDB.
 - Designed application deployment architecture for the private data center. Also implemented automatic deployment with Ansible with zero downtime.
 
-**Technology** Java, Spring, Oracle, Hibernate, Redis, RabbitMQ, Micro Services, Batching, Undertow, Nginx, Safenet, APM, ELK, Grafana, Elasticsearch, Prometheus, ISO-8583, ISO-9564, PCI/DSS.  
+**Technology** Java, Spring, Oracle, Redis, RabbitMQ, MicroServices, Undertow, Safenet, ELK, Grafana, Elasticsearch, Prometheus, ISO-8583, ISO-9564, PCI/DSS.  
 **Website:** [Digital Financial System](https://konasl.com/digitization-platform/kona-dfs/)
 || [nagad.com.bd](https://nagad.com.bd)
 
 #### **NexusPay**
+**Tech Lead \& Software Developer**
 
 NexusPay is a digitized payment platform for the existing bank accounts, credit/debit cards, Mobile banking, and Agent
 Banking accounts of Dutch-Bangla Bank Ltd, Bangladesh. This project is a customized variant
 of [Kona Pay](https://konasl.com/digitization-platform/kona-pay/) Platform for Bank Integration.
 
-- Integrated four bank accounting and issuing systems for mobile payment cards.
-- Support multiple payment & transaction methods (e.g. NFC, POS, HCE, EMV QR, e-com, utility & bill, ATM etc.)
-- Worked as a system designer and implemented core authorization modules and POS applications on Ingenico and Nexgo devices for contactless payment.
-- Guided a team consisting of 18 programmers.
+- Integrated 4 bank accounting and issuing systems for payment cards.
+- Collaborated project team consisting of 18 programmers and led 3 programmers as tech-lead.
+- Support multiple payment \& transaction methods (e.g. NFC, POS, HCE, EMV QR, e-com, utility, bill, ATM etc.).
+- Contributed as a system designer, implemented core authorization modules and POS applications on Ingenico and Nexgo devices for contactless payment.
 - Prepared app servers and deployed in Bank data center with compliance of regulatory, high availability, and option to scale up.
 
-**Technology** Java, Spring, Hibernate, Oracle, Redis, RabbitMQ, Micro Services, wildfly, HCE, ATM, POS, EMV QR, NFC, Thales HSM, PM, ISO-8583, ISO-9564, PCI/DSS.  
+**Technology** Java, Spring, Oracle, Redis, RabbitMQ, MicroServices, ATM, POS, EMV QR, NFC, Thales, ISO-8583, ISO-9564, PCI/DSS.  
 **Website:** [NexusPay](https://www.dutchbanglabank.com/nexuspay/nexusPay-home.html)
 
 #### **Kona Card**
-
-Kona Card is a prepaid card service, popular in South Korea. It has been designed on HCE-based tokenization platform KonaPay, enabled secured payment in smartphones, POS, ATM, web, smart-card, and other flexible channels.
+**Software Developer \& System Designer**
+Kona Card is a prepaid card service, popular in South Korea. It has been designed on HCE \& tokenization platform KonaPay, enabled secured payment in smartphones, POS, web, smart-card, and other channels.
 
 - Design & developed User Management and Remote Payment Gateway module of this core platform. Also, took part in the architecture designing of core KonaPay modules.
-- Developed a continuous delivery process with Jenkins and Oracle Virtual box.
+- Developed a continuous delivery process with Jenkins and Virtual box.
 
-**Technology** Java, Spring, Hibernate, Oracle, Redis, RabbitMQ, Micro Services HCE, HSM, ISO-8583, ISO-9564.  
+**Technology** Java, Spring, Hibernate, Oracle, Redis, RabbitMQ, MicroServices HCE, HSM, ISO-8583, ISO-9564.  
 **Website:** [konacard.co.kr](https://www.konacard.co.kr)
 
 #### **EMV Verification Tool (K-EVT)**
+**Software Developer**
 
 Tool to test personalized Payment(EMV) cards before issuing to users if different data and security module is working according to the specifications of payment brands( e.g. VISA, MASTERCARD, AMEX, etc.)
 - Studied specifications, designed and developed, tested, implemented reporting modules to support new payment brands.
 
-**Technology** Java, SmartCard, Payment Card, EMV, VISA, MASTERCARD, AMEX, ISO-7816.  
+**Technology** Java, SmartCard, EMV, VISA, MASTERCARD, AMEX, ISO-7816.  
 **Website:**
 [emv-verification-tool-k-evt](https://konasl.com/smart-card-and-personalization/emv-verification-tool-k-evt)
 
 #### **Instant Issuance Service (K-IIS)**
+**Software Developer**
 
 Desktop application aimed to customize and issue payment cards to customers at the bank branch at once.
 
 - Study specifications, design, and develop to support new payment brands.
 - Integrated Hoodo machine.
 
-**Technology** Java, SmartCard, Payment Card, Hoodo, EMV, VISA, MASTERCARD, AMEX, KonaCard ISO-7816.  
+**Technology** Java, SmartCard, EMV, VISA, MASTERCARD, AMEX, KonaCard ISO-7816.  
 **Website:**
 [instant-issuance-system-k-iis](https://konasl.com/smart-card-and-personalization/instant-issuance-system-k-iis/)
 
 #### **Key Management System (KMS)**
-
+**Software Developer**
 To perform cryptographic operation securely, HSM (Hardware Security Module) is used, which is accessed by KMS through simple generic APIs hiding hardware complexities.
 
 - Worked on customization of the module and HSM integration.
@@ -131,6 +141,8 @@ To perform cryptographic operation securely, HSM (Hardware Security Module) is u
 ---
 
 #### **DHAKA NEXT**
+
+**Consaultant and System Designer**
 
 DHAKA NEXT platform replaces the standard physical race with a virtual one to empower active and aspiring athletes to maintain their fitness even in Covid-19.
 
