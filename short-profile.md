@@ -56,10 +56,11 @@ _Principal Software Engineer (Sept. 2013 – Nov. 2021)_
 [Kona Software Lab Ltd (KonaSL)](https://konasl.com), the R&D Center, and the Global Solution Business Wing of [KONA I](https://konai.com/).
 
 - Study, understand and implement specifications on payment and security to develop payment and security services.
-- Worked as tech lead of development team (4~11 members) for several projects in planning, developing, and delivering the project requirements within the timeline.
-- Worked on the system design team for Kona Pay Platform, NexusPay, DFS, and developed account and transaction authorization modules of the core platform. Tested and Optimized the modules to scale up to 250 real-time financial transactions per second and 20M transactions per day.
+- Worked as tech lead of dev team (4-11 members) for several projects in planning, developing, delivering the project requirements within the timeline.
+- Contributed to the system design team for KonaPay Platform, KonaCard, NexusPay and DFS.
+- Developed account and transaction authorization modules of the core platform. Tested and Optimized the modules to scale up to 250 real-time financial transactions per second and 20M transactions per day.
 - Analyzed client requirements and implemented them to fit into the product.
-- Monitor system performance on production and optimize to achieve the targeted goal. 
+- Monitor performance on production and optimize to achieve targeted goal. 
 - Guided the team to resolve critical production issues to meet the SLA.
 
 ---
@@ -71,11 +72,11 @@ _Principal Software Engineer (Sept. 2013 – Nov. 2021)_
 
 The platform provides end consumers a unified digital environment to support an engaged user-base to avail payment. Along with other payment services, it supports the USSD channel, virtual card, reward management, promotion, back-office batch processing, several web portals, and other value-added services to support business.
 
-- Tech Lead
-- Designed \& developed core Accounting and Payment modules of the platform.
+- Guided as tech lead to develop core platform consisting of 11 programmers.
+- Designed \& developed core Accounting \& Payment modules of the platform.
 - Monitor, optimized and tested for performing 20M real-time transactions per day. Tested system with 50M  (1.5M active) users among them.
 - Improved processing time for back-office transaction reporting, clearing & settlement batch data processing (50M) from 14 to 5 hours).
-- Monitor system performance and optimize for performing 60M transactions per day in RDB.
+- Monitor and optimize performance for 60M transactions/day in RDB.
 - Designed application deployment architecture for the private data center. Also implemented automatic deployment with Ansible with zero downtime.
 
 **Technology** Java, Spring, Oracle, Redis, RabbitMQ, MicroServices, Undertow, Safenet, ELK, Grafana, Elasticsearch, Prometheus, ISO-8583, ISO-9564, PCI/DSS.  
@@ -163,7 +164,7 @@ _University of Dhaka, Bangladesh (2009-2013)_
 
 ---
 
-### **Publications**
+### **Publication**
 
 **[An Efficient Approach for Mining Frequent Patterns over Uncertain Data Streams](https://ieeexplore.ieee.org/abstract/document/7814711)**    
 International Conference on Tools for Artificial Intelligence (ICTAI)      
